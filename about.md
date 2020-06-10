@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Current student at UTD looking for experiences of every kind but mostly in the education field
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I'm new to programming, but the past few weeks have been fascinating.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[slb170130@utdallas.edu](mailto:email@domain.com)
