@@ -23,6 +23,7 @@ I used the words **Education Reform** to pull the past 1100 tweets before June 7
 Ultimately, I've become both increasingly _frustrated_ but all the more _intrigued_ and _interested_ with the data programming world.
 They say
 > The more you know, the more you realize you don't know.
+
 Or something like that. And now I fear that I won't be able to successfully implement my project. Nevertheless, I'm really appreciating all the learning.
 
 Signing off,
