@@ -13,6 +13,6 @@ It's a little hard to see the Frequency because of the scale of the y-axis, righ
 
 ![](https://github.com/SamBoiser/samboiser.github.io/blob/master/images/65E78F7B-402B-40BA-BDEB-48B51B126A5F_4_5005_c.jpeg)
 
-Here's a [link]() to my raw and cleaned data.
+Here's a [link](https://github.com/SamBoiser/samboiser.github.io/blob/master/TeachThought.xls) to my raw and cleaned data.
 
 You can scroll down to find cleaned data and a graph of the above variables. The graph titled Frequency details the frequency of tweets, since it is a little hard to see in the first graph.
