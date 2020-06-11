@@ -7,7 +7,7 @@ Okay, I retried the exercise - This time I focused on tweets from @TeachThought,
 
 Here's the graph of Reweets, Favorites, and Frequency by date:
 
-![](https://github.com/SamBoiser/samboiser.github.io/blob/master/images/C7E89BDC-7794-4599-BC69-B4F3242D718E_4_5005_c.jpeg)
+![](/images/C7E89BDC-7794-4599-BC69-B4F3242D718E_4_5005_c.jpeg)
 
 It's a little hard to see the Frequency because of the scale of the y-axis, right? So here's that in detail now:
 
