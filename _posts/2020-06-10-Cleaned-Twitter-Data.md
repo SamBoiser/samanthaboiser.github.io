@@ -9,6 +9,10 @@ Here's the graph of Reweets, Favorites, and Frequency by date:
 
 ![](https://github.com/SamBoiser/samboiser.github.io/blob/master/images/C7E89BDC-7794-4599-BC69-B4F3242D718E_4_5005_c.jpeg)
 
+It's a little hard to see the Frequency because of the scale of the y-axis, right? So here's that in detail now:
+
+![]
+
 Here's a [link](TeachThought.xls) of the Retweets, Likes, and Frequency of tweets by date.
 
 You can scroll down to find cleaned data and a graph of the above variables. The graph titled Frequency details the frequency of tweets, since it is a little hard to see in the first graph.
