@@ -11,7 +11,7 @@ Here's the graph of Reweets, Favorites, and Frequency by date:
 
 It's a little hard to see the Frequency because of the scale of the y-axis, right? So here's that in detail now:
 
-![](65E78F7B-402B-40BA-BDEB-48B51B126A5F_4_5005_c.jpeg)
+![](/images/65E78F7B-402B-40BA-BDEB-48B51B126A5F_4_5005_c.jpeg)
 
 Here's a [link](https://github.com/SamBoiser/samboiser.github.io/blob/master/TeachThought.xls) to my raw and cleaned data.
 
