@@ -25,35 +25,7 @@ Of course, there are many variables to take into account, such as the fact that 
 
 These tweets were taken from a month's span of time (May 7, 2020 to June 7, 2020). Despite significant momentum in the Black Lives Matter movement, it seems little correlation exists.
 
-The data brings forth major points of further research. Find my R code below:
-
-  install.packages("RCurl")
-  library(RCurl)
-  library(ggraph)
-  library(tidyverse)
-
-  x <- getURL("https://raw.githubusercontent.com/SamBoiser/samboiser.github.io/master/project2.csv")
-    project2 <- read.csv(text=x)
-
-  project
-  project2
-  
-'''
-  Frequencyplot2 <- ggplot(data=project2) +
-    geom_point(mapping=aes(x=Date,y=Frequency,color=Favorites,size=Retweets))
-
-  mynamestheme <- theme(plot.title = element_text(hjust=0.5, face = "bold", size = (15)))
-                     
-  Frequencyplot2 + mynamestheme + ggtitle("Frequency of @TeachThought's Tweets")
-
-  #Project2
-  Frequencyplot <- ggplot(data=project) +
-    geom_point(mapping=aes(x=favorites,y=retweets,size=replies), position="jitter")
-
-  mynamestheme1 <- theme(plot.title = element_text(hjust=0.5, face = "bold", size = (15)))
-
-  Frequencyplot + mynamestheme1 + ggtitle("Tweets with 'Education Reform'")
-'''
+The data brings forth major points of further research.
   
 ---
 ***
