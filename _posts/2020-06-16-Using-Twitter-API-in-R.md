@@ -11,8 +11,8 @@ While the size of the label implies number of mentions, the other prominent node
 Of course, labeling these other nodes would help identify potential major relationships with the Brookings Institute. As the Institue is a prominent think tank, potential influences in both directions could shed light on biases and more.
 
 Thus, it's worth looking into, and even creating more graphs, for the accounts
-*@blackcapitol
-*@SandyDarity
-*@DukeAAAS
-*@Jenkinsbd
-*@VFelbabaBrown
+* @blackcapitol
+* @SandyDarity
+* @DukeAAAS
+* @Jenkinsbd
+* @VFelbabaBrown
