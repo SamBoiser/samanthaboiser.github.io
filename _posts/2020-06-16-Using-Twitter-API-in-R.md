@@ -1,5 +1,5 @@
 ---
-layout:post
+layout: post
 title: Using Twitter API in R
 ---
 
